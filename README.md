@@ -1,4 +1,4 @@
-# CannibalsMissionairies Game
+# ATM App
 
 A Java Card project simulating an ATM banking application.
 
@@ -21,6 +21,9 @@ ATM app project simulates the workflow of bank ATM through applets, allowing use
 ## Installation
 To set up the project locally, follow these steps:
 
+## Installation
+To set up the project locally, follow these steps:
+
   1. Ensure you have the following installed on your system:
     * **Java IDE:** A Java Integrated Development Environment (IDE) is required. You can use any IDE of your choice, such as Eclipse, IntelliJ IDEA, or NetBeans.
     * **Java Card Development Kit:** Download and install the appropriate Java Card Development Kit.
@@ -30,22 +33,24 @@ To set up the project locally, follow these steps:
   ```
   git clone https://github.com/AkramNsir/ATM-app.git
   ```
+
   3. Open your IDE.
 
-  4. Import the Project:   
-    * Go to **File > Import.**
-    * Select **Existing Projects into Workspace** under the **General** category.
-    * Click **Next**, then browse to the cloned repository.
-    * Select the project and click **Finish**.
+  4. Import the Project:
+  * Go to **File > Import.**
+  * Select **Existing Projects into Workspace** under the **General** category.
+  * Click **Next**, then browse to the cloned repository.
+  * Select the project and click **Finish**.
 
   5. Set Up the Java Card Development Kit:
-    * Ensure the Java Card Development Kit is correctly configured in Eclipse by going to **Window > Preferences > Java > Installed JREs.** Add the JDK if it’s not already listed.
+  * Ensure the Java Card Development Kit is correctly configured in Eclipse by going to **Window > Preferences > Java > Installed JREs.** Add the JDK if it’s not already listed.
 
   6. Compile the Applets:
-    * Right-click on the project in the Project Explorer and select **Build Project.**
+  * Right-click on the project in the Project Explorer and select **Build Project.**
 
   7. Check for Compilation Errors:
-    * Ensure there are no compilation errors in the **Problems** view. Fix any issues that arise.  
+  * Ensure there are no compilation errors in the **Problems** view. Fix any issues that arise.
+
  
 
 ## Usage
