@@ -22,7 +22,7 @@ ATM app project simulates the workflow of bank ATM through applets, allowing use
 To set up the project locally, follow these steps:
 
   1. Ensure you have the following installed on your system:
-  * **Java IDE:** A Java Integrated Development Environment (IDE) is required. You can use any IDE of your choice, such as Eclipse, IntelliJ IDEA, or NetBeans.
+  * <span style="color: blue;">Java IDE:</span> A Java Integrated Development Environment (IDE) is required. You can use any IDE of your choice, such as Eclipse, IntelliJ IDEA, or NetBeans.
   * **Java Card Development Kit:** Download and install the appropriate Java Card Development Kit.
   * **Java Development Kit (JDK):** Ensure you have JDK 8 or higher installed.
 
