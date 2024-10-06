@@ -73,10 +73,10 @@ Here are some screenshots of ATM-app project:
 ![Balance](res/screenshots/balance.png)
 
 ### Credit Interface 
-![Credit](res/screenshots/credit.png)
+![Credit](res/screenshots/creditDone.png)
 
 ### Debit Interface 
-![Debit](res/screenshots/debit.png)
+![Debit](res/screenshots/debitDone.png)
 
 ## Technologies Used
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
